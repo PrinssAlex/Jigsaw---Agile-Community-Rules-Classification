@@ -1,10 +1,10 @@
-# 🛡️ Jigsaw - Agile Community Rules Classification
+# Jigsaw - Agile (Reddit) Community Rules Classification
 
 ![Jigsaw Agile Community](img1.jpg)
 
 ##  Overview
 
-Jigsaw - Agile Community is an advanced natural language processing ML project carried out to automatically detect rule violations in Reddit community discussions. The solution leverages state-of-the-art transformer models combined with strategic data processing techniques to identify content that violates community guidelines with high accuracy.
+Jigsaw - Agile Community is an advanced natural language processing ML project carried out to automatically detect rule violations in `Reddit` community discussions. The solution leverages state-of-the-art transformer models combined with strategic data processing techniques to identify content that violates community guidelines with high accuracy.
 
 This project was developed to address the challenges of content moderation at scale, where manual review becomes impractical as community size grows. The system can be integrated into community platforms to flag potential violations for human review or to automatically moderate content based on predefined rules.
 
