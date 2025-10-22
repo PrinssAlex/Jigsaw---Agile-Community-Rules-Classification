@@ -113,10 +113,6 @@ Key areas for future development include:
 - **Explainability features**: Providing justification for violation predictions
 - **Active learning integration**: Prioritizing content that would be most valuable to label
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The Hugging Face Transformers team for their excellent library
